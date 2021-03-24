@@ -13,7 +13,7 @@
     font-family: 'Montserrat';
     src: url('../fonts/Montserrat-500.eot');
     src: local('Montserrat-500'), local('Montserrat-500'),
-        url('../fonts/Montserrat-500?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-500.eot?#iefix') format('embedded-opentype'),
         url('../fonts/Montserrat-500.woff') format('woff'),
         url('../fonts/Montserrat-500.ttf') format('truetype');
     font-weight: 500;
@@ -24,7 +24,7 @@
     font-family: 'Montserrat';
     src: url('../fonts/Montserrat-600.eot');
     src: local('Montserrat-600'), local('Montserrat-600'),
-        url('../fonts/Montserrat-600?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-600.eot?#iefix') format('embedded-opentype'),
         url('../fonts/Montserrat-600.woff') format('woff'),
         url('../fonts/Montserrat-600.ttf') format('truetype');
     font-weight: 600;
