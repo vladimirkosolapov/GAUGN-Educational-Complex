@@ -26,7 +26,7 @@
     src: local('Montserrat-600'), local('Montserrat-600'),
         url('../fonts/Montserrat-600?#iefix') format('embedded-opentype'),
         url('../fonts/Montserrat-600.woff') format('woff'),
-        url('../fonts/Montserrat-600') format('truetype');
+        url('../fonts/Montserrat-600.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
