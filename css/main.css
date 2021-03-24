@@ -1,3 +1,36 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-400.eot');
+    src: local('Montserrat-400'), local('Montserrat-400'),
+        url('../fonts/Montserrat-400.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-400.woff') format('woff'),
+        url('../fonts/Montserrat-400.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-500.eot');
+    src: local('Montserrat-500'), local('Montserrat-500'),
+        url('../fonts/Montserrat-500?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-500.woff') format('woff'),
+        url('../fonts/Montserrat-500.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-600.eot');
+    src: local('Montserrat-600'), local('Montserrat-600'),
+        url('../fonts/Montserrat-600?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-600.woff') format('woff'),
+        url('../fonts/Montserrat-600') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
 #content, #siteheader {
     margin: 0 25%;
 }
@@ -93,17 +126,17 @@ h1, h2 {
 }
 
 h1 {
-	font-size: 1.35rem;
-	font-weight: 500;
+    font-size: 1.35rem;
+    font-weight: 500;
 }
 
 h2 { 
-	font-size: 1.3rem;
-	font-weight: 400;
+    font-size: 1.3rem;
+    font-weight: 400;
 }
 
 @media only screen and (max-width: 1024px) {
-   #content, #siteheader {
-      margin: 0 10%;
-   }
+    #content, #siteheader {
+        margin: 0 10%;
+    }
 }
